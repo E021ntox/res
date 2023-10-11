@@ -27,9 +27,6 @@
 
     // 原画
     player.switchQuality(info.qualityCandidates[0].qn)
-    // const hevc = info.qualityCandidates.filter(x => x.qn.includes('hevc'))[0].qn
-    // const avc = info.qualityCandidates.filter(x => !x.qn.includes('hevc'))[0].qn
-    // player.switchQuality(hevc)
 
     // 小窗播放
     // const button = document.createElement('button')
