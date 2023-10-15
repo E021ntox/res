@@ -1,3 +1,8 @@
+[AutoProxy 0.2.9]
+
+@@localhost
+@@127.0.0.1
+
 .ac
 .ai
 .al
