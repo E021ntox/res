@@ -8,6 +8,11 @@ cdnjs.cloudflare.com
 bootstrapcdn.com
 cdnst.net
 
+cloudflare-ipfs.com
+vsassets.io
+sstatic.net
+static.dash.cloudflare.com
+
 .ac
 .ai
 .al
@@ -20,6 +25,8 @@ cdnst.net
 .cyou
 .day
 .de
+.dev
+.goog
 .im
 .live
 .lol
