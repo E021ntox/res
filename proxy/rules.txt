@@ -1,17 +1,17 @@
 [AutoProxy 0.2.9]
 
-@@localhost
-@@127.0.0.1
+@@||localhost
+@@||127.0.0.1
 
-jsdelivr.net
-cdnjs.cloudflare.com
-bootstrapcdn.com
-cdnst.net
+||jsdelivr.net
+||cdnjs.cloudflare.com
+||bootstrapcdn.com
+||cdnst.net
 
-cloudflare-ipfs.com
-vsassets.io
-sstatic.net
-static.dash.cloudflare.com
+||cloudflare-ipfs.com
+||vsassets.io
+||sstatic.net
+||static.dash.cloudflare.com
 
 .ac
 .ai
