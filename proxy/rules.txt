@@ -6,24 +6,28 @@
 ||jsdelivr.net
 ||cdnjs.cloudflare.com
 ||bootstrapcdn.com
-||cdnst.net
 
 ||cloudflare-ipfs.com
+||static.dash.cloudflare.com
 ||vsassets.io
 ||sstatic.net
-||static.dash.cloudflare.com
+||cdnst.net
 
+||censys.io
+||changewindows.org
 ||deepl.com
 ||docker.com
+||driverpack.io
 ||elevenforum.com
 ||gitbook.com
 ||greasyfork.org
 ||he.net
 ||mozilla.org
+||nanoreview.net
+||nanoreview.net
 ||stackoverflow.com
 ||virustotal.com
 
-||changewindows.org
 ||sinodefenceforum.com
 
 ||.ac
@@ -47,9 +51,12 @@
 ||.me
 ||.one
 ||.ooo
+||.pe
 ||.pw
 ||.rest
+||.sh
 ||.site
+||.sx
 ||.tk
 ||.to
 ||.top
