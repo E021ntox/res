@@ -13,6 +13,19 @@
 ||sstatic.net
 ||static.dash.cloudflare.com
 
+||deepl.com
+||docker.com
+||elevenforum.com
+||gitbook.com
+||greasyfork.org
+||he.net
+||mozilla.org
+||stackoverflow.com
+||virustotal.com
+
+||changewindows.org
+||sinodefenceforum.com
+
 ||.ac
 ||.ai
 ||.al
