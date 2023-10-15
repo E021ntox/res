@@ -3,6 +3,11 @@
 @@localhost
 @@127.0.0.1
 
+jsdelivr.net
+cdnjs.cloudflare.com
+bootstrapcdn.com
+cdnst.net
+
 .ac
 .ai
 .al
@@ -11,6 +16,7 @@
 .cc
 .ch
 .co
+.community
 .cyou
 .day
 .de
