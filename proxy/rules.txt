@@ -43,8 +43,10 @@
 ||de
 ||dev
 ||goog
+||hk
 ||im
 ||is
+||jp
 ||live
 ||lol
 ||ly
