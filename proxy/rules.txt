@@ -44,6 +44,7 @@
 ||dev
 ||goog
 ||hk
+||icu
 ||im
 ||is
 ||jp
