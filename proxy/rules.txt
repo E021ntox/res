@@ -42,6 +42,7 @@
 ||day
 ||de
 ||dev
+||fan
 ||goog
 ||hk
 ||icu
