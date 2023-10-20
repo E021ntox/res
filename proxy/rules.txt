@@ -60,6 +60,7 @@
 ||rest
 ||sh
 ||site
+||su
 ||sx
 ||tech
 ||tk
