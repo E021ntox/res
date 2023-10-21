@@ -58,6 +58,7 @@
 ||ooo
 ||pe
 ||ps
+||pub
 ||pw
 ||rest
 ||sh
