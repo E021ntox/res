@@ -49,6 +49,7 @@
 ||im
 ||is
 ||jp
+||lat
 ||li
 ||live
 ||lol
