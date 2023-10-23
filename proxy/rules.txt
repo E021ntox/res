@@ -24,10 +24,11 @@
 ||he.net
 ||mozilla.org
 ||nanoreview.net
+||sharepoint.com
+||sinodefenceforum.com
 ||stackoverflow.com
 ||virustotal.com
-
-||sinodefenceforum.com
+||visualstudio.com
 
 ||ac
 ||ai
@@ -56,6 +57,7 @@
 ||lol
 ||ly
 ||me
+||moe
 ||one
 ||ooo
 ||pe
