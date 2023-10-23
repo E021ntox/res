@@ -35,6 +35,7 @@
 ||app
 ||blog
 ||cc
+||cfd
 ||ch
 ||co
 ||community
@@ -62,6 +63,7 @@
 ||pub
 ||pw
 ||rest
+||rip
 ||sh
 ||site
 ||su
