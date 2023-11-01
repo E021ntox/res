@@ -80,4 +80,5 @@
 ||tw
 ||uk
 ||vip
+||wiki
 ||xyz
