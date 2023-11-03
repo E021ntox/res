@@ -13,8 +13,8 @@
 ||cdnst.net
 
 ||censys.io
-||changewindows.org
 ||cf-ipfs.com
+||changewindows.org
 ||cloudflare-ipfs.com
 ||deepl.com
 ||docker.com
@@ -76,6 +76,7 @@
 ||tech
 ||tk
 ||to
+||today
 ||top
 ||tv
 ||tw
