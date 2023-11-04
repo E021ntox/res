@@ -47,6 +47,7 @@
 ||dev
 ||eu
 ||fan
+||gg
 ||goog
 ||hk
 ||icu
