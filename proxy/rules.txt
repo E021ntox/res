@@ -52,6 +52,7 @@
 ||hk
 ||icu
 ||im
+||info
 ||is
 ||jp
 ||lat
