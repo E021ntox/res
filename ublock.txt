@@ -16,6 +16,8 @@ space.bilibili.com##.disabled:remove-class(/disabled/)
 live.bilibili.com###my-dear-haruna-vm
 live.bilibili.com###room-background-vm
 live.bilibili.com##.flip-view
+live.bilibili.com###link-footer-vm
+live.bilibili.com##.web-player-icon-feedback
 
 ! zhihu.com
 www.zhihu.com##.VideoAnswerPlayer-video
