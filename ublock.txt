@@ -13,11 +13,12 @@ www.bilibili.com##.bpx-player-cmd-dm-wrap
 www.bilibili.com##.bpx-player-dialog-wrap
 space.bilibili.com##.i-watchlater
 space.bilibili.com##.disabled:remove-class(/disabled/)
-live.bilibili.com###my-dear-haruna-vm
 live.bilibili.com###room-background-vm
 live.bilibili.com##.flip-view
 live.bilibili.com###link-footer-vm
 live.bilibili.com##.web-player-icon-feedback
+live.bilibili.com###anchor-guest-box-id
+live.bilibili.com###my-dear-haruna-vm
 
 ! zhihu.com
 www.zhihu.com##.VideoAnswerPlayer-video
