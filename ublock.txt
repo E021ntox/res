@@ -22,6 +22,9 @@ live.bilibili.com###my-dear-haruna-vm
 
 ! zhihu.com
 www.zhihu.com##.VideoAnswerPlayer-video
+www.zhihu.com##.css-1esjagr:remove-attr(/href/)
+www.zhihu.com##.css-1esjagr:remove-class(/css-1esjagr/)
+www.zhihu.com##.css-1dvsrp
 
 ! bbs.nga.cn
 bbs.nga.cn###selectTextHintWindow
