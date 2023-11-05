@@ -14,6 +14,7 @@ www.bilibili.com##.bpx-player-dialog-wrap
 space.bilibili.com##.i-watchlater
 space.bilibili.com##.disabled:remove-class(/disabled/)
 live.bilibili.com###my-dear-haruna-vm
+live.bilibili.com###room-background-vm
 
 ! zhihu.com
 www.zhihu.com##.VideoAnswerPlayer-video
