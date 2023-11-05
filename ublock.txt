@@ -24,4 +24,4 @@ bbs.nga.cn###m_posts a:remove-attr(/onclick|onmouseover|onmouseout/)
 
 ! tieba.baidu.com
 tieba.baidu.com##.plat_recom_carousel
-tieba.baidu.com##.card_head_img:style(width: auto !important; height: auto !important;)
+tieba.baidu.com##.card_head_img:style(width: 60px !important; height: 60px !important;)
