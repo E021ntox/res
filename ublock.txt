@@ -11,6 +11,8 @@ www.youtube.com##ytd-shelf-renderer
 www.bilibili.com##*:style(font-family: HarmonyOS_Regular !important;)
 www.bilibili.com##.bpx-player-cmd-dm-wrap
 www.bilibili.com##.bpx-player-dialog-wrap
+www.bilibili.com##.search-word.jump-link:remove-attr(/class|data-url/)
+www.bilibili.com##.search-word.icon
 space.bilibili.com##.i-watchlater
 space.bilibili.com##.disabled:remove-class(/disabled/)
 live.bilibili.com###room-background-vm
