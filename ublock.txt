@@ -8,7 +8,6 @@ www.youtube.com##ytd-rich-section-renderer
 www.youtube.com##ytd-shelf-renderer
 
 ! bilibili.com
-! ||www.bilibili.com^$removeparam=vd_source
 www.bilibili.com##*:style(font-family: HarmonyOS_Regular !important;)
 www.bilibili.com##.bpx-player-cmd-dm-wrap
 www.bilibili.com##.bpx-player-dialog-wrap
