@@ -1,0 +1,27 @@
+$removeparam=aff
+
+! music.163.com
+music.163.com##.soil
+
+! youtube.com
+www.youtube.com##ytd-rich-section-renderer
+www.youtube.com##ytd-shelf-renderer
+
+! bilibili.com
+||www.bilibili.com^$removeparam=vd_source
+www.bilibili.com##*:style(font-family: HarmonyOS_Regular !important;)
+www.bilibili.com##.bpx-player-cmd-dm-wrap
+www.bilibili.com##.bpx-player-dialog-wrap
+space.bilibili.com##.i-watchlater
+space.bilibili.com##.disabled:remove-class(/disabled/)
+
+! zhihu.com
+www.zhihu.com##.VideoAnswerPlayer-video
+
+! bbs.nga.cn
+bbs.nga.cn###selectTextHintWindow
+bbs.nga.cn###m_posts a:remove-attr(/onclick|onmouseover|onmouseout/)
+
+! tieba.baidu.com
+tieba.baidu.com###plat_recom_carousel
+tieba.baidu.com##.card_head:style(width: auto !important; height: auto !important;)
