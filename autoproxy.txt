@@ -31,6 +31,12 @@
 ||virustotal.com
 ||visualstudio.com
 
+||lowendtalk.com
+||lowendspirit.com
+||hostloc.com
+||nodeseek.com
+||v2ex.com
+
 ||ac
 ||ai
 ||al
