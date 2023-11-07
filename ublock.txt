@@ -23,7 +23,6 @@ live.bilibili.com###anchor-guest-box-id
 live.bilibili.com###my-dear-haruna-vm
 
 ! zhihu.com
-www.zhihu.com##.VideoAnswerPlayer-video
 www.zhihu.com##.RichContent-EntityWord:remove-attr(/class|href/)
 www.zhihu.com##.css-1dvsrp
 
