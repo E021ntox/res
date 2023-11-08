@@ -6,6 +6,7 @@ music.163.com##.soil
 ! youtube.com
 www.youtube.com##ytd-rich-section-renderer
 www.youtube.com##ytd-shelf-renderer
+www.youtube.com##ytd-reel-shelf-renderer
 
 ! bilibili.com
 www.bilibili.com##*:style(font-family: HarmonyOS_Regular !important;)
