@@ -1,4 +1,5 @@
 $removeparam=aff
+$removeparam=affid
 
 ! music.163.com
 music.163.com##.soil
