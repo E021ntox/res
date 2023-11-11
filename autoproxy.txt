@@ -78,6 +78,7 @@
 ||pw
 ||rest
 ||rip
+||ru
 ||sh
 ||site
 ||su
