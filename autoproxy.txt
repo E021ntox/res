@@ -79,6 +79,7 @@
 ||rest
 ||rip
 ||ru
+||sb
 ||sh
 ||site
 ||su
