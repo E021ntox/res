@@ -7,10 +7,11 @@
 ||cdnjs.cloudflare.com
 ||bootstrapcdn.com
 
+||spotifycdn.com
 ||static.dash.cloudflare.com
-||vsassets.io
 ||sstatic.net
 ||cdnst.net
+||vsassets.io
 
 ||censys.io
 ||cf-ipfs.com
