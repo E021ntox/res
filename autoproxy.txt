@@ -26,6 +26,7 @@
 ||he.net
 ||mozilla.org
 ||nanoreview.net
+||openai.com
 ||sharepoint.com
 ||sinodefenceforum.com
 ||stackoverflow.com
