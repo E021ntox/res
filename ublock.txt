@@ -10,7 +10,7 @@ www.youtube.com##ytd-shelf-renderer
 www.youtube.com##ytd-reel-shelf-renderer
 
 ! bilibili.com
-www.bilibili.com##*:style(font-family: HarmonyOS_Regular !important;)
+www.bilibili.com##*:not(i):style(font-family: HarmonyOS_Regular !important;)
 www.bilibili.com##.bpx-player-cmd-dm-wrap
 www.bilibili.com##.bpx-player-dialog-wrap
 www.bilibili.com##.search-word.jump-link:remove-attr(/class|data-url/)
