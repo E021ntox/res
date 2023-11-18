@@ -1,14 +1,6 @@
 $removeparam=aff
 $removeparam=affid
 
-! music.163.com
-music.163.com##.soil
-
-! youtube.com
-www.youtube.com##ytd-rich-section-renderer
-www.youtube.com##ytd-shelf-renderer
-www.youtube.com##ytd-reel-shelf-renderer
-
 ! bilibili.com
 www.bilibili.com##*:not(i):style(font-family: HarmonyOS_Regular !important;)
 www.bilibili.com##.bpx-player-cmd-dm-wrap
@@ -23,6 +15,14 @@ live.bilibili.com###link-footer-vm
 live.bilibili.com##.web-player-icon-feedback
 live.bilibili.com###anchor-guest-box-id
 live.bilibili.com###my-dear-haruna-vm
+
+! youtube.com
+www.youtube.com##ytd-rich-section-renderer
+www.youtube.com##ytd-shelf-renderer
+www.youtube.com##ytd-reel-shelf-renderer
+
+! music.163.com
+music.163.com##.soil
 
 ! zhihu.com
 www.zhihu.com##.Modal-wrapper
