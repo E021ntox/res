@@ -25,9 +25,9 @@ www.youtube.com##ytd-reel-shelf-renderer
 music.163.com##.soil
 
 ! zhihu.com
-www.zhihu.com##.Modal-wrapper
-www.zhihu.com##.RichContent-EntityWord:remove-attr(/class|href/)
-www.zhihu.com##.css-1dvsrp
+zhihu.com##.Modal-wrapper
+zhihu.com##.RichContent-EntityWord:remove-attr(/class|href/)
+zhihu.com##.css-1dvsrp
 
 ! bbs.nga.cn
 bbs.nga.cn###selectTextHintWindow
