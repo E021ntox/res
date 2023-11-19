@@ -61,6 +61,7 @@
 ||icu
 ||im
 ||info
+||ink
 ||is
 ||jp
 ||lat
