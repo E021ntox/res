@@ -24,6 +24,7 @@
 ||gitbook.com
 ||greasyfork.org
 ||he.net
+||icann.org
 ||mozilla.org
 ||nanoreview.net
 ||openai.com
