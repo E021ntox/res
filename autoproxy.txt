@@ -45,6 +45,7 @@
 ||ai
 ||al
 ||app
+||blackfriday
 ||blog
 ||cc
 ||cfd
