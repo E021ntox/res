@@ -59,6 +59,7 @@
 ||dev
 ||eu
 ||fan
+||fun
 ||gg
 ||goog
 ||hk
