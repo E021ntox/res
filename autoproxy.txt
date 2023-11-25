@@ -103,4 +103,5 @@
 ||uk
 ||vip
 ||wiki
+||win
 ||xyz
