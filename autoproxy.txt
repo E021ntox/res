@@ -28,6 +28,7 @@
 ||mozilla.org
 ||nanoreview.net
 ||openai.com
+||openwrt.org
 ||sharepoint.com
 ||sinodefenceforum.com
 ||sourceforge.net
