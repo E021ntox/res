@@ -15,6 +15,7 @@
 ||cf-ipfs.com
 ||changewindows.org
 ||cloudflare-ipfs.com
+||crazygames.com
 ||deepl.com
 ||docker.com
 ||driverpack.io
@@ -30,6 +31,7 @@
 ||openwrt.org
 ||privacydev.net
 ||sharepoint.com
+||silvergames.com
 ||sinodefenceforum.com
 ||sourceforge.net
 ||stackoverflow.com
