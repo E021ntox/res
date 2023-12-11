@@ -95,6 +95,7 @@
 ||sb
 ||sh
 ||site
+||space
 ||su
 ||sx
 ||tech
