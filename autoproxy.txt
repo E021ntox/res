@@ -17,6 +17,7 @@
 ||cloudflare-ipfs.com
 ||crazygames.com
 ||deepl.com
+||displayspecifications.com
 ||docker.com
 ||driverpack.io
 ||elevenforum.com
