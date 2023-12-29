@@ -17,6 +17,7 @@
 @font-face { font-family: "宋体"; src: local("Microsoft YaHei UI"); }
 
 @font-face { font-family: "MS PGothic"; src: local("Yu Gothic"); }
+@font-face { font-family: "Palatino Linotype"; src: local("Yu Gothic"); }
 
 `
 
