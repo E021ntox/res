@@ -8,6 +8,7 @@
 ||sstatic.net
 ||cdnst.net
 ||vsassets.io
+||azureedge.net
 
 ||bootstrapcdn.com
 ||cdnjs.cloudflare.com
