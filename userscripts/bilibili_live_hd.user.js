@@ -35,8 +35,6 @@
     // button.onclick = () => window.open(document.location, '_blank', 'popup,noopener,noreferrer')
     // document.querySelector('#chat-control-panel-vm .icon-right-part').prepend(button)
 
-    console.log('BiliBili Live HD: Done')
-
   })
   observer.observe(document, { childList: true, subtree: true })
 
