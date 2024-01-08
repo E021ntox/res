@@ -38,6 +38,7 @@
 ||sinodefenceforum.com
 ||sourceforge.net
 ||stackoverflow.com
+||steamrip.com
 ||virustotal.com
 ||visualstudio.com
 
