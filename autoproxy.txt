@@ -15,7 +15,6 @@
 ||cdnjs.cloudflare.com
 ||censys.io
 ||cf-ipfs.com
-||changewindows.org
 ||cloudflare-ipfs.com
 ||crazygames.com
 ||deepl.com
@@ -24,14 +23,10 @@
 ||driverpack.io
 ||elevenforum.com
 ||gitbook.com
-||greasyfork.org
 ||he.net
-||icann.org
 ||jsdelivr.net
-||mozilla.org
 ||nanoreview.net
 ||openai.com
-||openwrt.org
 ||privacydev.net
 ||sharepoint.com
 ||silvergames.com
