@@ -65,6 +65,7 @@
 ||cz
 ||day
 ||de
+||design
 ||dev
 ||eu
 ||fan
