@@ -9,6 +9,7 @@
 ||cdnst.net
 ||vsassets.io
 ||azureedge.net
+||msftauth.net
 
 ||bootstrapcdn.com
 ||cdnjs.cloudflare.com
