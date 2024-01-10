@@ -44,3 +44,4 @@ tieba.baidu.com##.card_head_img:style(width: 60px !important; height: 60px !impo
 
 ||data.bilibili.com^
 ||data.microsoft.com^
+||api.github.com/_private^
