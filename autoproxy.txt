@@ -34,6 +34,7 @@
 ||sourceforge.net
 ||stackoverflow.com
 ||steamrip.com
+||unpkg.com
 ||virustotal.com
 ||visualstudio.com
 
