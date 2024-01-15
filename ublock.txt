@@ -26,6 +26,7 @@ music.163.com##.soil
 
 ! zhihu.com
 zhihu.com##.Modal-wrapper
+zhihu.com##html:remove-attr(/style/)
 zhihu.com##.RichContent-EntityWord:remove-attr(/class|href/)
 zhihu.com##.css-1dvsrp
 
