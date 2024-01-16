@@ -55,6 +55,7 @@
 ||cc
 ||cfd
 ||ch
+||cloud
 ||co
 ||community
 ||cyou
