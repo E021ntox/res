@@ -25,6 +25,7 @@
 ||gitbook.com
 ||he.net
 ||jsdelivr.net
+||linkedin.com
 ||nanoreview.net
 ||openai.com
 ||privacydev.net
