@@ -3,7 +3,6 @@
 @@||localhost
 @@||127.0.0.1
 
-||spotifycdn.com
 ||static.dash.cloudflare.com
 ||sstatic.net
 ||cdnst.net
@@ -33,6 +32,8 @@
 ||silvergames.com
 ||sinodefenceforum.com
 ||sourceforge.net
+||spotify.com
+||spotifycdn.com
 ||stackoverflow.com
 ||steamrip.com
 ||unpkg.com
