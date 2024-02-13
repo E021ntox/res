@@ -49,8 +49,8 @@
 
 
 ! Original top-level domains
-||gov
 ||edu
+||gov
 ||mil
 ||org
 
