@@ -21,6 +21,7 @@
 ||docker.com
 ||driverpack.io
 ||elevenforum.com
+||ghacks.net
 ||gitbook.com
 ||he.net
 ||jsdelivr.net
