@@ -140,7 +140,7 @@
 ||ck
 ||cl
 ||cm
-!||cn
+! ||cn
 ||co
 ||cr
 ||cu
@@ -198,7 +198,7 @@
 ||il
 ||im
 ||in
-||io
+! ||io
 ||iq
 ||ir
 ||is
