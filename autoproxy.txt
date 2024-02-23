@@ -40,6 +40,7 @@
 ||unpkg.com
 ||virustotal.com
 ||visualstudio.com
+||wordpress.com
 
 ||lowendtalk.com
 ||lowendspirit.com
