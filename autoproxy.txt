@@ -93,6 +93,7 @@
 ||vip
 ||wiki
 ||win
+||work
 ||xyz
 
 ! Country code top-level domains
