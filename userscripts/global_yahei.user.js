@@ -5,6 +5,8 @@
 // @include      *
 // @run-at       document-start
 // @grant        GM_addStyle
+// @updateURL    https://github.com/E021ntox/res/raw/main/userscripts/global_yahei.user.js
+// @downloadURL  https://github.com/E021ntox/res/raw/main/userscripts/global_yahei.user.js
 // ==/UserScript==
 
 (function () {
