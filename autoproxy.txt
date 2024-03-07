@@ -24,6 +24,7 @@
 ||elevenforum.com
 ||ghacks.net
 ||gitbook.com
+||gofile.io
 ||he.net
 ||jsdelivr.net
 ||linkedin.com
