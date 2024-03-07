@@ -2,10 +2,10 @@
 // @name         gwdang
 // @version      0.1
 // @description
-// @icon         https://www.gwdang.com/favicon.ico
 // @include      https://*.taobao.com/*
 // @include      https://*.tmall.com/*
 // @include      https://*.jd.com/*
+// @icon         https://www.gwdang.com/favicon.ico
 // @updateURL    https://github.com/E021ntox/res/raw/main/userscripts/gwdang.user.js
 // @downloadURL  https://github.com/E021ntox/res/raw/main/userscripts/gwdang.user.js
 // ==/UserScript==
