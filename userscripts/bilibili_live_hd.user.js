@@ -2,8 +2,8 @@
 // @name         BiliBili Live HD
 // @version      0.1
 // @description
-// @icon         https://www.bilibili.com/favicon.ico
 // @include      https://live.bilibili.com/*
+// @icon         https://www.bilibili.com/favicon.ico
 // @updateURL    https://github.com/E021ntox/res/raw/main/userscripts/bilibili_live_hd.user.js
 // @downloadURL  https://github.com/E021ntox/res/raw/main/userscripts/bilibili_live_hd.user.js
 // ==/UserScript==
