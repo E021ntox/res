@@ -1,11 +1,11 @@
 // ==UserScript==
-// @name         MissAV Url Fix
+// @name         MissAV Fix
 // @version      0.1
 // @description  
 // @match        https://missav.com/*
 // @icon         https://missav.com/img/favicon.png
-// @updateURL    https://github.com/E021ntox/res/raw/main/userscripts/missav_url_fix.user.js
-// @downloadURL  https://github.com/E021ntox/res/raw/main/userscripts/missav_url_fix.user.js
+// @updateURL    https://github.com/E021ntox/res/raw/main/userscripts/missav_fix.user.js
+// @downloadURL  https://github.com/E021ntox/res/raw/main/userscripts/missav_fix.user.js
 // ==/UserScript==
 
 (function () {
