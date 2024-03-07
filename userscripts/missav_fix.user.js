@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         MissAV Fix
-// @version      0.1
-// @description  
+// @version      2024030801
+// @description
 // @match        https://missav.com/*
 // @icon         https://missav.com/img/favicon.png
 // @updateURL    https://github.com/E021ntox/res/raw/main/userscripts/missav_fix.user.js
