@@ -4,6 +4,8 @@
 // @description  
 // @match        https://missav.com/*
 // @icon         https://missav.com/img/favicon.png
+// @updateURL    https://github.com/E021ntox/res/raw/main/userscripts/missav_url_fix.user.js
+// @downloadURL  https://github.com/E021ntox/res/raw/main/userscripts/missav_url_fix.user.js
 // ==/UserScript==
 
 (function () {
