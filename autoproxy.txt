@@ -29,6 +29,7 @@
 ||jsdelivr.net
 ||linkedin.com
 ||nanoreview.net
+||npmjs.com
 ||openai.com
 ||privacydev.net
 ||sharepoint.com
