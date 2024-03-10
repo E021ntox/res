@@ -15,6 +15,7 @@ live.bilibili.com###link-footer-vm
 live.bilibili.com##.web-player-icon-feedback
 live.bilibili.com###anchor-guest-box-id
 live.bilibili.com###my-dear-haruna-vm
+||data.bilibili.com^
 
 ! youtube.com
 www.youtube.com##ytd-rich-section-renderer
@@ -39,6 +40,9 @@ tieba.baidu.com##.plat_recom_carousel
 tieba.baidu.com##.card_head:style(width: 60px !important; height: 60px !important;)
 tieba.baidu.com##.card_head_img:style(width: 60px !important; height: 60px !important;)
 
+! xueqiu.com
+||xueqiu.com/upload/web^
+
 ! itdog.cn
 itdog.cn##html:style(min-width: auto !important;)
 itdog.cn##body:style(min-width: auto !important;)
@@ -46,7 +50,6 @@ itdog.cn##body:style(min-width: auto !important;)
 ! privacy
 ||firehose.*.amazonaws.com^
 ||log-global.aliyuncs.com^
-||data.bilibili.com^
 ||data.microsoft.com^
 ||sparrow.cloudflare.com
 ||api.github.com/_private^
