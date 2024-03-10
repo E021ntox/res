@@ -6,7 +6,6 @@
 ||static.dash.cloudflare.com
 ||sstatic.net
 ||cdnst.net
-||vsassets.io
 ||azureedge.net
 ||msftauth.net
 
@@ -43,6 +42,7 @@
 ||unpkg.com
 ||virustotal.com
 ||visualstudio.com
+||vsassets.io
 ||wordpress.com
 
 ||lowendtalk.com
