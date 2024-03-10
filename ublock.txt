@@ -39,6 +39,10 @@ tieba.baidu.com##.plat_recom_carousel
 tieba.baidu.com##.card_head:style(width: 60px !important; height: 60px !important;)
 tieba.baidu.com##.card_head_img:style(width: 60px !important; height: 60px !important;)
 
+! itdog.cn
+itdog.cn##html:style(min-width: auto !important;)
+itdog.cn##body:style(min-width: auto !important;)
+
 ! privacy
 ||firehose.*.amazonaws.com^
 ||log-global.aliyuncs.com^
