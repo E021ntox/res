@@ -21,6 +21,7 @@
 ||docker.com
 ||driverpack.io
 ||elevenforum.com
+||fontawesome.com
 ||ghacks.net
 ||gitbook.com
 ||gofile.io
