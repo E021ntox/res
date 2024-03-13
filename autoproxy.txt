@@ -39,6 +39,7 @@
 ||spotify.com
 ||spotifycdn.com
 ||stackoverflow.com
+||statically.io
 ||steamrip.com
 ||unpkg.com
 ||virustotal.com
