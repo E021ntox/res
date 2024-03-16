@@ -9,7 +9,7 @@
 ||azureedge.net
 ||msftauth.net
 
-||algolia.com
+||algolia.net
 ||b-cdn.net
 ||bootstrapcdn.com
 ||cdnjs.cloudflare.com
