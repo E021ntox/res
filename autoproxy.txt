@@ -22,6 +22,7 @@
 ||dlpanda.com
 ||docker.com
 ||driverpack.io
+||emailnator.com
 ||elevenforum.com
 ||fontawesome.com
 ||ghacks.net
@@ -29,6 +30,8 @@
 ||gofile.io
 ||he.net
 ||hostloc.com
+||infini-cloud.net
+||ipinfo.io
 ||jsdelivr.net
 ||linkedin.com
 ||lowendspirit.com
