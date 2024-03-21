@@ -27,6 +27,7 @@
 ||fontawesome.com
 ||ghacks.net
 ||gitbook.com
+||gitlab.com
 ||gofile.io
 ||he.net
 ||hostloc.com
